@@ -1,5 +1,4 @@
-{
-<body>::backdrop-color: teal;
-</body>
-
+body {
+    background-color: beige;
+    color: #000;
 }
